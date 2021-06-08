@@ -1,0 +1,14 @@
+com/rest/client/json/Location.java
+ com.rest.client.json.Location
+com/rest/client/controller/GeocoderController.java
+ com.rest.client.controller.GeocoderController
+com/rest/client/services/GeocoderService.java
+ com.rest.client.services.GeocoderService
+com/rest/client/json/GeocoderResponse.java
+ com.rest.client.json.GeocoderResponse
+com/rest/client/json/Geometry.java
+ com.rest.client.json.Geometry
+com/rest/client/ClientApplication.java
+ com.rest.client.ClientApplication
+com/rest/client/json/Result.java
+ com.rest.client.json.Result
